@@ -1,6 +1,6 @@
 pcall(function()
   game.StarterGui:SetCore("SendNotification", {
-    Title = 'Sup it's me Mario';
+    Title = 'Sup its me Mario';
     Text = 'Helo thanks for using this script';
     Duration = 20;
   })
