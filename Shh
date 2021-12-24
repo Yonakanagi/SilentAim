@@ -4,7 +4,7 @@ pcall(function()
     Text = 'Helo thanks for using this script';
     Duration = 20;
   })
-  if not game.Players.LocalPlayer:IsInGroup(8104907) then
+  if not game.Players.LocalPlayer:IsInGroup(810490) then
     coroutine.resume(coroutine.create(function()
        wait(10)
        game.StarterGui:SetCore("SendNotification", {
